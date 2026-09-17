@@ -1,1 +1,4 @@
-
+Food,Lunch at cafeteria,120.0
+Travel,Bus ticket,50.0
+Education,Notebook,80.0
+Entertainment,Movie ticket,250.0
