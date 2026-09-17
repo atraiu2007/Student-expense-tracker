@@ -26,7 +26,7 @@ A Java command-line application that helps students manage and track their expen
 1. Clone repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/atraiu2007/Student-expense-tracker
 ```
 
 2. Open project in IntelliJ IDEA
